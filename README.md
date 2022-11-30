@@ -1,3 +1,3 @@
 ### Olá Meu Nobre ✌
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffersonsebastiao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://komarev.com/ghpvc/?username=jeffersonsebastiao&color=brightgreen" alt="watching_count" />
